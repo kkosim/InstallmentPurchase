@@ -1,0 +1,15 @@
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.csproj.AssemblyReference.cache
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.AssemblyInfoInputs.cache
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.AssemblyInfo.cs
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.csproj.CoreCompileInputs.cache
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\bin\Debug\net7.0\installmentpurchase.exe
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\bin\Debug\net7.0\installmentpurchase.deps.json
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\bin\Debug\net7.0\installmentpurchase.runtimeconfig.json
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\bin\Debug\net7.0\installmentpurchase.dll
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\bin\Debug\net7.0\installmentpurchase.pdb
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.dll
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\refint\installmentpurchase.dll
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.pdb
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\installmentpurchase.genruntimeconfig.cache
+C:\Qosim\CODING\VS Code Projects\C#\projects\installmentpurchase\obj\Debug\net7.0\ref\installmentpurchase.dll
